@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+}
+
+.fundadores {
+    display: flex;
+}
+
+.foto-fundador {
+    width: 30vw;
+    margin: 10px 20px;
+}
+
+.contenedor-servicios {
+    display: flex;
+    justify-content: center;
+}
+
+.servicio {
+    width: 30vw;
+    margin: 0 20px;
+}
